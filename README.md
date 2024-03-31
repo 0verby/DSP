@@ -17,7 +17,7 @@ I decided halfway through my career life to change the course and explore data m
 <br><b> Outcome </b><br>
 <br><b> Reflection </b> <br>
 </ul>
-<br>  
+<br><br>
 <li> <b>DATA SALARY PREDICTIVE MODEL</b></li>
 <ul>
 <br><b> Source </b> <br>
@@ -25,7 +25,7 @@ I decided halfway through my career life to change the course and explore data m
 <br><b> Outcome </b><br>
 <br><b> Reflection </b> <br>
 </ul>
-<br>  
+<br><br>
 <li> <b>STRESS LEVEL PREDICTIVE MODEL</b></li>
 <ul>
 <br><b> Source </b> <br>
@@ -33,7 +33,7 @@ I decided halfway through my career life to change the course and explore data m
 <br><b> Outcome </b><br>
 <br><b> Reflection </b> <br>
 </ul>
-<br>  
+<br><br>
 </ul>
 
 ## **SEND A MESSAGE**
