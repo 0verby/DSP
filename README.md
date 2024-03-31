@@ -11,7 +11,8 @@ I decided halfway through my career life to change the course and explore data m
 ## **PROJECTS DURING COURSE**
 <ul>
 
-#### ***Energy Consumption Predictive Model***
+<strong> Energy Consumption Predictive Model</strong>
+
 <ul> 
   
 <ins>  PURPOSE: </ins>
