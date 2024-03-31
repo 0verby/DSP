@@ -11,7 +11,7 @@ I decided halfway through my career life to change the course and explore data m
 ## **PROJECTS DURING COURSE**
 <ul>
 
-#### **PROJECT 1** : ***Energy Consumption Predictive Model***
+#### ***Energy Consumption Predictive Model***
 <ul> 
   
 <ins>  PURPOSE: </ins>
@@ -22,7 +22,7 @@ I decided halfway through my career life to change the course and explore data m
 
 </ul>
   
-#### **PROJECT 2** : ***Data Salary Predictive Model***
+#### <b>Data Salary Predictive Model</b>
 <ul> 
   
 <ins>  PURPOSE: </ins>
@@ -33,7 +33,7 @@ I decided halfway through my career life to change the course and explore data m
 
 </ul>
 
-#### **PROJECT 3** : ***Stress Level Predictive Model***
+#### ***Stress Level Predictive Model***
 <ul> 
   
 <ins>  PURPOSE: </ins>
