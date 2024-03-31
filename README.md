@@ -10,41 +10,31 @@ I decided halfway through my career life to change the course and explore data m
 
 ## **PROJECTS DURING COURSE**
 <ul>
-
-<strong><ins> ENERGY CONSUMPTION PREDICTIVE MODEL</ins></strong>
-
-<ul> 
-  
-<b><em> Purpose: </em> </b> <br>
-  
-<b>  Outcome: </b>
-
-<b>  Reflection: </b>
-
+<li><strong> ENERGY CONSUMPTION PREDICTIVE MODEL</strong></li>
+<ul>
+<br><b> Source </b> <br>
+<br><b> Purpose </b> <br>
+<br><b> Outcome </b><br>
+<br><b> Reflection </b> <br>
 </ul>
-  
- <b>DATA SALARY PREDICTIVE MODEL</b>
-<ul> 
-  
-<ins>  PURPOSE: </ins>
-  
-<ins>  OUTCOME: </ins>
-
-<ins>  REFLECTION: </ins>
-
+<br>  
+<li> <b>DATA SALARY PREDICTIVE MODEL</b></li>
+<ul>
+<br><b> Source </b> <br>
+<br><b> Purpose </b> <br>
+<br><b> Outcome </b><br>
+<br><b> Reflection </b> <br>
+</ul>
+<br>  
+<li> <b>Stress Level Predictive Model</b></li>
+<ul>
+<br><b> Source </b> <br>
+<br><b> Purpose </b> <br>
+<br><b> Outcome </b><br>
+<br><b> Reflection </b> <br>
+</ul>
+<br>  
 </ul>
 
-#### ***Stress Level Predictive Model***
-<ul> 
-  
-<ins>  PURPOSE: </ins>
-  
-<ins>  OUTCOME: </ins>
-
-<ins>  REFLECTION: </ins>
-
-</ul>
-</ul>
-  
 ## **SEND A MESSAGE**
 smurf_62@hotmail.com
