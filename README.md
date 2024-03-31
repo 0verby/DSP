@@ -15,15 +15,15 @@ I decided halfway through my career life to change the course and explore data m
 
 <ul> 
   
-<ins>  PURPOSE: </ins>
+<ins><b> PURPOSE: </b></ins>
   
-<ins>  OUTCOME: </ins>
+<ins><b>  OUTCOME: </b></ins>
 
-<ins>  REFLECTION: </ins>
+<ins><b>  REFLECTION: </b></ins>
 
 </ul>
   
-#### <b>Data Salary Predictive Model</b>
+ <b>Data Salary Predictive Model</b>
 <ul> 
   
 <ins>  PURPOSE: </ins>
