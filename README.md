@@ -11,19 +11,19 @@ I decided halfway through my career life to change the course and explore data m
 ## **PROJECTS DURING COURSE**
 <ul>
 
-<strong> Energy Consumption Predictive Model</strong>
+<strong><ins> ENERGY CONSUMPTION PREDICTIVE MODEL</ins></strong>
 
 <ul> 
   
-<ins><b> PURPOSE: </b></ins>
+<b><em> Purpose: </em> </b> <br>
   
-<ins><b>  OUTCOME: </b></ins>
+<b>  Outcome: </b>
 
-<ins><b>  REFLECTION: </b></ins>
+<b>  Reflection: </b>
 
 </ul>
   
- <b>Data Salary Predictive Model</b>
+ <b>DATA SALARY PREDICTIVE MODEL</b>
 <ul> 
   
 <ins>  PURPOSE: </ins>
