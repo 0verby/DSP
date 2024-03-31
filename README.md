@@ -26,7 +26,7 @@ I decided halfway through my career life to change the course and explore data m
 <br><b> Reflection </b> <br>
 </ul>
 <br>  
-<li> <b>Stress Level Predictive Model</b></li>
+<li> <b>STRESS LEVEL PREDICTIVE MODEL</b></li>
 <ul>
 <br><b> Source </b> <br>
 <br><b> Purpose </b> <br>
