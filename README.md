@@ -12,10 +12,21 @@ I decided halfway through my career life to change the course and explore data m
 <ul>
 <li><strong> ENERGY CONSUMPTION PREDICTIVE MODEL</strong></li>
 <ul>
-<br><b> Source </b> <br>
+<br><b> Source </b> <br>  
+  <ul> - Available from Kaggle.com</ul>
+  <ul> - Energy-Consumption-Prediction</ul> 
+    
 <br><b> Purpose </b> <br>
+  <ul> - What are the main factors influencing energy consumption? </ul> 
+  <ul> - Can we predict future enegy consumption in buildins using historical data?</ul> 
+    
 <br><b> Outcome </b><br>
+  <ul> - I was tasked with the data wrangling in this project.</ul>
+  <ul> - Utilize our model as a predictive engine</ul>
+    
 <br><b> Reflection </b> <br>
+  <ul>  - More analysis is needed to determine additional relevent features.</ul>
+  <ul>  - Experiment more with different model types and hyperparameters.</ul>  
 </ul>
 <br><br>
 <li> <b>DATA SALARY PREDICTIVE MODEL</b></li>
