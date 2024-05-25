@@ -27,6 +27,7 @@ I decided halfway through my career life to change the course and explore data m
 <br><b> Reflection </b> <br>
   <ul>  - More analysis is needed to determine additional relevent features.</ul>
   <ul>  - Experiment more with different model types and hyperparameters.</ul>  
+
 </ul>
 <br><br>
 <li> <b>DATA SALARY PREDICTIVE MODEL</b></li>
