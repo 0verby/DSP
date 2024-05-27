@@ -5,8 +5,7 @@
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll site to Pages
-            - name: Setup Go environment
-  uses: actions/setup-go@v5.0.1
+ 
   with:
     # The Go version to download (if necessary) and use. Supports semver spec and ranges. Be sure to enclose this option in single quotation marks.
     go-version: # optional
