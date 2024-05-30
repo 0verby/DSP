@@ -1,6 +1,7 @@
+gh repo clone pages-themes/slate
 # DSP
 Data Science Projects - Bellevue University
-
+    
 ## **APPLIED DATA SCIENCE**
 
 This page is devoted to my final applied data science project class at Bellevue University. Featured on this page will include copies of my projects and resume. 
@@ -10,7 +11,7 @@ I decided halfway through my career life to change the course and explore data m
 
 ## **PROJECTS DURING COURSE**
 <ul>
-<li><strong> ENERGY CONSUMPTION PREDICTIVE MODEL</strong></li>
+<li><strong> ENERGY CONSUMPTION PREDICTIVE MODEL</strong></li><a href="https://0verby.github.io/DSP/Energy">Energy</a>
 <ul>
 <br><b> Source </b> <br>  
   <ul> - Available from Kaggle.com</ul>
@@ -30,15 +31,27 @@ I decided halfway through my career life to change the course and explore data m
 
 </ul>
 <br><br>
-<li> <b>DATA SALARY PREDICTIVE MODEL</b></li>
+<li> <b>DATA SALARY PREDICTIVE MODEL</b></li><a href="https://0verby.github.io/DSP/Salary">Salary</a>
 <ul>
-<br><b> Source </b> <br>
+<br><b> Source </b> <a href="https://0verby.github.io/DSP/Salary">Salary</a>
+  <br>
+  <br><b> Purpose </b> <br>
+  <ul> - What are the main factors influencing energy consumption? </ul> 
+  <ul> - Can we predict future enegy consumption in buildins using historical data?</ul> 
+    
+<br><b> Outcome </b><br>
+  <ul> - I was tasked with the data wrangling in this project.</ul>
+  <ul> - Utilize our model as a predictive engine</ul>
+    
+<br><b> Reflection </b> <br>
+  <ul>  - More analysis is needed to determine additional relevent features.</ul>
+  <ul>  - Experiment more with different model types and hyperparameters.</ul>  
 <br><b> Purpose </b> <br>
 <br><b> Outcome </b><br>
 <br><b> Reflection </b> <br>
 </ul>
 <br><br>
-<li> <b>STRESS LEVEL PREDICTIVE MODEL</b></li>
+<li> <b>STRESS LEVEL PREDICTIVE MODEL</b></li><a href="https://0verby.github.io/DSP/Stress">Stress</a>
 <ul>
 <br><b> Source </b> <br>
 <br><b> Purpose </b> <br>
