@@ -1,4 +1,3 @@
-gh repo clone pages-themes/slate
 # DSP
 Data Science Projects - Bellevue University
     
