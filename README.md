@@ -1,6 +1,9 @@
 # DSP
 Data Science Projects - Bellevue University
-
+tab {
+    display: inline-block;
+    margin-left: 40px;
+}
 ## **APPLIED DATA SCIENCE**
 
 This page is devoted to my final applied data science project class at Bellevue University. Featured on this page will include copies of my projects and resume. 
