@@ -33,24 +33,26 @@ I decided halfway through my career life to change the course and explore data m
 <br><br>
 <li> <b>DATA SALARY PREDICTIVE MODEL</b></li><a href="https://0verby.github.io/DSP/Salary">Salary</a>
 <ul>
-<br><b> Source </b> <a href="https://0verby.github.io/DSP/Salary">Salary</a>
+<br><b> Source </b> 
+  <ul> - Available from ai-jobs.net</ul>
+  <ul> - The Global AI, ML, Data Science Salary Index for 2024</ul>
+
   <br>
   <br><b> Purpose </b> <br>
-  <ul> - What are the main factors influencing energy consumption? </ul> 
-  <ul> - Can we predict future enegy consumption in buildins using historical data?</ul> 
+  <ul> - What are the key factors influencing salary levels in data-related roles? </ul> 
+  <ul> - Can we develop a predictive model that accurately forecasts salaries for data-related roles based on historical data?</ul> 
     
 <br><b> Outcome </b><br>
-  <ul> - I was tasked with the data wrangling in this project.</ul>
-  <ul> - Utilize our model as a predictive engine</ul>
+  <ul> - I was tasked with the data visualization in this project.</ul>
+  <ul> - Not enough historical data on new fields and career topics.</ul>
     
 <br><b> Reflection </b> <br>
-  <ul>  - More analysis is needed to determine additional relevent features.</ul>
+  <ul>  - More data is needed to determine additional relevent features.</ul>
   <ul>  - Experiment more with different model types and hyperparameters.</ul>  
-<br><b> Purpose </b> <br>
-<br><b> Outcome </b><br>
-<br><b> Reflection </b> <br>
+
 </ul>
 <br><br>
+
 <li> <b>STRESS LEVEL PREDICTIVE MODEL</b></li><a href="https://0verby.github.io/DSP/Stress">Stress</a>
 <ul>
 <br><b> Source </b> <br>
@@ -60,6 +62,8 @@ I decided halfway through my career life to change the course and explore data m
 </ul>
 <br><br>
 </ul>
+
+<a href="https://sites.google.com/view/bellevueuniversityfinalproject/home">More About the Projects</a>
 
 ## **SEND A MESSAGE**
 smurf_62@hotmail.com
